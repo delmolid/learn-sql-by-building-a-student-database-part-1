@@ -6,3 +6,4 @@ psql -U freecodecamp -d postgres
 ./insert_data.sh
 psql -U freecodecamp -d postgres
 ./insert_data.sh
+psql -U freecodecamp -d postgres
