@@ -1,3 +1,5 @@
 ./insert_data.sh
 ./insert_data.sh
 ./insert_data.sh
+psql -U freecodecamp -d postgres
+psql -U freecodecamp -d postgres
