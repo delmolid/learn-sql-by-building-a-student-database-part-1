@@ -9,3 +9,5 @@ psql -U freecodecamp -d postgres
 psql -U freecodecamp -d postgres
 psql -U freecodecamp -d postgres
 ls --color=auto
+rm courses_test.csv
+rm students_test.csv
